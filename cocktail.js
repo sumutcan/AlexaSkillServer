@@ -14,7 +14,7 @@ app.error = function( exception, request, response ) {
 	console.log(exception)
 	console.log(request);
 	console.log(response);
-	response.say( 'Leider gibt es ein Fehler: ' + error.message);
+	response.say( 'Leider gibt es Fehler: ' + error.message);
 };
 
 app.intent('cocktailByName',
