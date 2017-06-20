@@ -1,6 +1,3 @@
-[submodule "AlexaCocktailMasterSkill"]
-	path = AlexaCocktailMasterSkill
-	url = https://github.com/sumutcan/AlexaCocktailMasterSkill.git
 [submodule "apps/AlexaCocktailMasterSkill"]
 	path = apps/AlexaCocktailMasterSkill
 	url = https://github.com/sumutcan/AlexaCocktailMasterSkill.git
