@@ -1,0 +1,23 @@
+{
+  "name": "alexa-cocktail-master-skill",
+  "version": "1.0.0",
+  "description": "Alexa Cocktail recipe skill",
+  "main": "cocktail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumutcan/AlexaCocktailMasterSkill.git"
+  },
+  "author": "umutcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumutcan/AlexaCocktailMasterSkill/issues"
+  },
+  "homepage": "https://github.com/sumutcan/AlexaCocktailMasterSkill#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.1"
+  },
+  "devDependencies": {}
+}
